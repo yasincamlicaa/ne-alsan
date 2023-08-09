@@ -1,0 +1,59 @@
+[
+    {
+        "id": 0,
+        "name": "Ahşap Katlanır Masa",
+        "price": 1600,
+        "stock": 1245,
+        "image":"product-1"
+    },
+    {
+        "id": 1,
+        "name": "Dizüstü Bilgisayar",
+        "price": 15500,
+        "stock": 100,
+        "image":"product-2"
+    },
+    {
+        "id": 2,
+        "name": "Yemek Masası",
+        "price": 1250,
+        "stock": 100,
+        "image":"product-3"
+    },
+    {
+        "id": 3,
+        "name": "Kulaküstü Kulaklık",
+        "price": 350,
+        "stock": 50,
+        "image":"product-4"
+    },
+    {
+        "id": 4,
+        "name": "Rose Gold Kol Saati",
+        "price": 150,
+        "stock": 2000,
+        "image":"product-5"
+    },
+    {
+        "id": 5,
+        "name": "Yürüyüş Ayakkabısı",
+        "price": 1800,
+        "stock": 2000,
+        "image":"product-6"
+    },
+    {
+        "id": 6,
+        "name": "Bluetooth Hoparlör",
+        "price": 990,
+        "stock": 2000,
+        "image":"product-7"
+    },
+    {
+        "id": 7,
+        "name": "Elektrikli Süpürge",
+        "price": 1900,
+        "stock": 2000,
+        "image":"product-8"
+    }
+]
+

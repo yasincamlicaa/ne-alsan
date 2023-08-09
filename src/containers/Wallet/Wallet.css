@@ -1,0 +1,68 @@
+.wallet-area.login {
+    background-color: #EDF9F8;
+}
+.wallet-head {
+    padding-top: 38px;
+    padding-bottom: 27px;
+    padding-left: 13px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.wallet-head h5{
+    font-size:24px;
+    color:#349590;
+    margin-left:14px;
+}
+.wallet-head p {
+    color: #349590;
+    font-size: 22px;
+    background: #C3ECEA;
+    border-radius: 8px;
+    margin: 0;
+    padding: 1px 8px;
+    margin-left: 7px;
+}
+.go-to-basket-button {
+    text-align: right;
+}
+.go-to-basket-button button {
+    background-color: #84C7C4;
+    border-color: #84C7C4;
+    min-width: 435px;
+    color:white;
+    padding: 15px 5px;
+    font-size:20px;
+}
+.go-to-basket-button button:focus,
+.go-to-basket-button button:hover,
+.go-to-basket-button button:active,
+.go-to-basket-button button:visited,
+.go-to-basket-button button:focus-within {
+    background-color: #84C7C4;
+    border-color: #84C7C4;
+}
+.wallet-area.login {
+    margin-bottom:60px;
+}
+.wallet-body h3 {
+    color:#349590;
+    font-size:32px;
+    margin-bottom:30px;
+}
+.total-price h5 {
+    color: #349590;
+    margin: 0;
+}
+.total-price p {
+    color: #349590;
+    font-size: 20px;
+    background: #C3ECEA;
+    border-radius: 8px;
+    margin: 0;
+    padding: 1px 8px;
+    margin-left: 7px;
+}
+.total-price {
+    display: flex;
+}

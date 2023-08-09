@@ -1,0 +1,110 @@
+.wallet-item-info-image img {
+    max-width: 165px;
+    max-height: 159px;
+}
+.wallet-item-info-text h5 {
+    font-size: 24px;
+    margin-bottom: 7px;
+}
+.wallet-item-info-text {
+    margin-left:20px;
+}
+.wallet-item-info-text p {
+    color: #349590;
+    font-size: 12px;
+}
+.wallet-item-info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.wallet-item-price {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    height:100%;
+}
+.wallet-item-price-text {
+    color: #349590;
+    font-size: 32px;
+    font-weight: bold;
+    min-width: 100px;
+    text-align: center;
+}
+.wallet-items {
+    margin-top:22px;
+}
+.wallet-item {
+    padding: 31px 0px;
+    border: 2px solid #349590;
+    margin: 10px auto;
+    border-radius: 13px;
+}
+.count-bar {
+    min-width: 153px;
+    min-height: 61px;
+    max-height: 61px;
+    max-width: 153px;
+    background: #C3ECEA;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: hidden;
+    text-align: center;
+    align-items: center;
+}
+.count-bar button {
+    min-width: 49px;
+    min-height: 49px;
+    max-height: 49px;
+    max-width: 49px;
+    background: white;
+    border: white;
+    border-radius: 100%;
+    margin: 0 4px;
+    font-size: 61px;
+    color: #C3ECEA;
+    display: flex;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    line-height: 1;
+    align-items: flex-end;
+    font-weight: 100;
+}
+.count-bar button:hover,
+.count-bar button:focus,
+.count-bar button:focus-within,
+.count-bar button:active,
+.count-bar button:visited {
+    color: #C3ECEA;
+    border: white;
+    background-color: white;
+}
+.count-bar h4 {
+    color: #349590;
+    font-size: 24px;
+}
+.wallet-info-line p {
+    color: #349590;
+    font-size: 20px;
+    background: #C3ECEA;
+    border-radius: 8px;
+    margin: 0;
+    padding: 1px 8px;
+    margin-left: 7px;
+}
+
+.wallet-info-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 18px;
+}
+.wallet-info-line h5 {
+    font-size: 20px;
+    color: #349590;
+}

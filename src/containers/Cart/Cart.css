@@ -1,0 +1,19 @@
+.cart-area.login {
+    background-color: #EDF9F8;
+}
+.cart-head {
+    padding-top: 38px;
+    padding-bottom: 27px;
+    padding-left: 13px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.cart-head h5{
+    font-size:24px;
+    color:#349590;
+    margin-left:14px;
+}
+.cart-item-info-text {
+    margin-left:20px;
+}

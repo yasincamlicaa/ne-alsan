@@ -1,0 +1,15 @@
+.wallet-info {
+    min-height: 217px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #349590;
+    border-radius: 13px;
+    padding: 0 15px;
+}
+.wallet-info-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 9px 0;
+}
