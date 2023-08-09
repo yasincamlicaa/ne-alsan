@@ -2,16 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![localhost_3000_ (3)](https://github.com/yasincamlicaa/ne-alsam/assets/139007922/5c020a50-4e68-4c10-accc-b846cbf50887)
+![localhost_3000_ (4)](https://github.com/yasincamlicaa/ne-alsan/assets/139007922/0f9980c8-7a49-4e65-a3c9-a1f8ef3f1758)
 
-![localhost_3000_wallet (1)](https://github.com/yasincamlicaa/ne-alsam/assets/139007922/cb1b93e0-0298-4100-9084-26d539d98369)
+![localhost_3000_home](https://github.com/yasincamlicaa/ne-alsan/assets/139007922/52c3a98a-ca0e-44e3-9b98-76151742ac0c)
 
+admin@nealsan.com - Admin123*
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` - `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
